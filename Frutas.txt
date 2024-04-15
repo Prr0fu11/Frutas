@@ -3,3 +3,5 @@ Papaya
 Sandia 
 Mango
 Fresa
+Manzana
+Uva
